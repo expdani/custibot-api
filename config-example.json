@@ -1,0 +1,8 @@
+{
+  "url": "http://localhost:3001/",
+  "oauth": {
+    "clientId": "752269862235144265",
+    "callbackURL": "http://localhost:3001/discord/callback",
+    "scopes": ["identify", "guilds"]
+  }
+}
